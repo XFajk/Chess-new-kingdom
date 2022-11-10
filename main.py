@@ -22,6 +22,9 @@ def main():
 
     # entities
 
+    chess_board = []
+    for i in range(12): print(i)
+
     # logic vars
 
 
